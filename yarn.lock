@@ -2895,9 +2895,9 @@ electron-to-chromium@^1.2.7, electron-to-chromium@^1.3.30, electron-to-chromium@
   version "1.3.50"
   resolved "http://registry.npm.taobao.org/electron-to-chromium/download/electron-to-chromium-1.3.50.tgz#7438b76f92b41b919f3fbdd350fbd0757dacddf7"
 
-element-ui@^2.4.3:
-  version "2.4.4"
-  resolved "https://registry.yarnpkg.com/element-ui/-/element-ui-2.4.4.tgz#b50ac888fee1a2adb8fa7205b12aadb3962e77e3"
+element-ui@^2.4.6:
+  version "2.15.1"
+  resolved "https://registry.yarnpkg.com/element-ui/-/element-ui-2.15.1.tgz#ada00aa6e32c02774a2e77563dd84668f813cdff"
   dependencies:
     async-validator "~1.8.1"
     babel-helper-vue-jsx-merge-props "^2.0.0"
@@ -4343,8 +4343,8 @@ homedir-polyfill@^1.0.1:
     parse-passwd "^1.0.0"
 
 hosted-git-info@^2.1.4:
-  version "2.6.1"
-  resolved "http://registry.npm.taobao.org/hosted-git-info/download/hosted-git-info-2.6.1.tgz#6e4cee78b01bb849dcf93527708c69fdbee410df"
+  version "2.8.9"
+  resolved "https://registry.yarnpkg.com/hosted-git-info/-/hosted-git-info-2.8.9.tgz#dffc0bf9a21c02209090f2aa69429e1414daf3f9"
 
 hpack.js@^2.1.6:
   version "2.1.6"
