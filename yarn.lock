@@ -1771,8 +1771,8 @@ cache-base@^1.0.1:
     unset-value "^1.0.0"
 
 cached-path-relative@^1.0.0:
-  version "1.0.1"
-  resolved "http://registry.npm.taobao.org/cached-path-relative/download/cached-path-relative-1.0.1.tgz#d09c4b52800aa4c078e2dd81a869aac90d2e54e7"
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/cached-path-relative/-/cached-path-relative-1.1.0.tgz#865576dfef39c0d6a7defde794d078f5308e3ef3"
 
 caller-path@^0.1.0:
   version "0.1.0"
@@ -2895,9 +2895,9 @@ electron-to-chromium@^1.2.7, electron-to-chromium@^1.3.30, electron-to-chromium@
   version "1.3.50"
   resolved "http://registry.npm.taobao.org/electron-to-chromium/download/electron-to-chromium-1.3.50.tgz#7438b76f92b41b919f3fbdd350fbd0757dacddf7"
 
-element-ui@^2.4.3:
-  version "2.4.4"
-  resolved "https://registry.yarnpkg.com/element-ui/-/element-ui-2.4.4.tgz#b50ac888fee1a2adb8fa7205b12aadb3962e77e3"
+element-ui@^2.4.6:
+  version "2.15.6"
+  resolved "https://registry.yarnpkg.com/element-ui/-/element-ui-2.15.6.tgz#c9609add35af5a686a4b7685dc1d757c75e01df3"
   dependencies:
     async-validator "~1.8.1"
     babel-helper-vue-jsx-merge-props "^2.0.0"
