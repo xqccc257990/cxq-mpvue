@@ -2478,8 +2478,8 @@ css-selector-tokenizer@^0.7.0:
     regexpu-core "^1.0.0"
 
 css-what@2.1:
-  version "2.1.0"
-  resolved "http://registry.npm.taobao.org/css-what/download/css-what-2.1.0.tgz#9467d032c38cfaefb9f2d79501253062f87fa1bd"
+  version "2.1.3"
+  resolved "https://registry.yarnpkg.com/css-what/-/css-what-2.1.3.tgz#a6d7604573365fe74686c3f311c56513d88285f2"
 
 css@~2.2.0, css@~2.2.1:
   version "2.2.3"
@@ -2895,9 +2895,9 @@ electron-to-chromium@^1.2.7, electron-to-chromium@^1.3.30, electron-to-chromium@
   version "1.3.50"
   resolved "http://registry.npm.taobao.org/electron-to-chromium/download/electron-to-chromium-1.3.50.tgz#7438b76f92b41b919f3fbdd350fbd0757dacddf7"
 
-element-ui@^2.4.3:
-  version "2.4.4"
-  resolved "https://registry.yarnpkg.com/element-ui/-/element-ui-2.4.4.tgz#b50ac888fee1a2adb8fa7205b12aadb3962e77e3"
+element-ui@^2.4.6:
+  version "2.15.10"
+  resolved "https://registry.yarnpkg.com/element-ui/-/element-ui-2.15.10.tgz#fde0ff5cb4c30e8eb166d617f85916defe5948f1"
   dependencies:
     async-validator "~1.8.1"
     babel-helper-vue-jsx-merge-props "^2.0.0"
